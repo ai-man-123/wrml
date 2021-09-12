@@ -4,14 +4,14 @@ function welcomeMsg() {
 
     const takapedia = `<a href="https://msha.ke/takapedia/" target="_blank">takapedia</a>`;
     const IG = `<a href="https://www.instagram.com/manxtodd/" target="_blank">manxtodd</a>`;
-    const WA = `<a href="https://api.whatsapp.com/send?phone=6288231715470?text=Bang+Bagi+Bokep" target="_blank">whatsapp</a>`;
+    const WA = `<a href="https://api.whatsapp.com/send?phone=299554121&text=Hi" target="_blank">whatsapp</a>`;
     const githubGw = `<a href="https://github.com/manxtodd/" target="_blank">github</a>`
 
     const msg1 = `<p class="animation mb-0 text-truncate">JOKI, TOP UP & GIFT SKIN ML di ${takapedia} ya [StevenJohannes]</p>`;
-    const msg2 = `<p class="animation mb-0 text-truncate">Hubungi Gw Di IG: ${IG} / WA: ${WA}</p>`;
-    const msg3 = `<p class="animation mb-0 text-truncate">Inget! WR Sebatas Angka Ya.</p>`;
-    const msg4 = `<p class="animation mb-0 text-truncate">Follow ${githubGw} gw juga ya</p>`;
-    const msg5 = `<p class="animation mb-0 text-truncate">Jangan lupa follow sosmed gua dibawah ya</p>`;
+    const msg2 = `<p class="animation mb-0 text-truncate">Contact Me On IG: ${IG} / WA: ${WA}</p>`;
+    const msg3 = `<p class="animation mb-0 text-truncate">WR hanya sebatas angka, jangan berlebihan.</p>`;
+    const msg4 = `<p class="animation mb-0 text-truncate">Follow ${githubGw} saya juga ya</p>`;
+    const msg5 = `<p class="animation mb-0 text-truncate">Jangan lupa follow sosmed saya dibawah ya</p>`;
 
     let arrayEl = [msg1, msg2, msg3, msg4, msg5];
     let arrayMax = 5;
